@@ -15,7 +15,7 @@ WeatherVue is a modern, responsive weather application built with TypeScript and
 ---
 
 ## 🖼️ Screenshot
-![Screenshot 2025-05-26 165724](https://github.com/user-attachments/assets/12df64a8-4c90-4376-854f-c299a45b0a93)
+![Screenshot 2025-05-26 165724](https://github.com/user-attachments/assets/754c6f24-5507-4883-bab3-791df82b8a6c)
 
 ---
 
